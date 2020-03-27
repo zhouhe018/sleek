@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title:    
+title: Keep   
 baseurl: "/sleek" # the subpath of your site, e.g. /blog
 url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Resume', link: '/contact'}
 
 tagline: >
-  Hi, I'm Zhou He! I'm a product designer in Nanjing,   also a life-long learner.
+  Hi, I'm Zhou He - I'm a product designer in Nanjing, also a life-long learner.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
