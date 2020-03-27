@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Resume', link: '/contact'}
 
 tagline: >
-  a product designer in Nanjing
+  a product designer in Nanjing, also a life-long learner
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
