@@ -4,7 +4,7 @@ author: Zhou He # You :P
 description: > # Meta description of Homepage
   Glad to see you here.
 baseurl: "/sleek" # the subpath of your site, e.g. /blog
-url: "https://zhouhe018.github.io/sleek" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
