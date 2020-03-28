@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: "饿了么 商业画布分析"
 summary: 钢琴、吉他及萨克斯风的才华
 featured-img: shane-rounce-205187
 categories: [Sample, Guides]
