@@ -4,7 +4,7 @@ title: "Some articles are just so long they deserve a really long title to see i
 summary: 钢琴、吉他及萨克斯风的才华
 featured-img: shane-rounce-205187
 categories: [Sample, Guides]
-font: Arial
+font: 微软雅黑
 ---
 
 
