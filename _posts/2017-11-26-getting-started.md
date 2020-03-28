@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with Sleek
-summary: aasjdnfasdofiasdfansdfasdf
+summary: 操作系统，数字时代当之无愧的地基。当大部分从业人员都更关注它的技术与功能时，操作系统的 UI 设计师们却赋予了它无限的艺术气息。
 featured-img: sleek
 mathjax: true
 ---
