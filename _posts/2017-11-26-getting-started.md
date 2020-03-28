@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with Sleek
-post summary: aasjdnfasdofiasdfansdfasdf
+summary: aasjdnfasdofiasdfansdfasdf
 featured-img: sleek
 mathjax: true
 ---
