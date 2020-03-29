@@ -3,7 +3,7 @@ layout: post
 title: "饿了么 商业画布分析"
 summary: 钢琴、吉他及萨克斯风的才华
 featured-img: shane-rounce-205187
-categories: [Sample, Guides]
+categories: [数据分析, Guides]
 ---
 
 
