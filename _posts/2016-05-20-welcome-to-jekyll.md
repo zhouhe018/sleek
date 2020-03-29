@@ -1,6 +1,6 @@
 ---
 layout: post
-featured-img: texture
+featured-img: Dania
 summary: 这是文档的简介
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
