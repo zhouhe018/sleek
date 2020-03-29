@@ -24,7 +24,7 @@ navigation: # Navigation links
 tagline: >
   Hi, I'm Zhou He - I'm a product designer in Nanjing, also a life-long learner.
 
-hero_img: posts/Dania.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/texture1.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: zhouhe018@hotmail.com # email for form submission
 
