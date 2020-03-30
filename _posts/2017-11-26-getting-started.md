@@ -2,7 +2,6 @@
 layout: post
 title: Getting Started with Sleek
 summary: 操作系统，数字时代当之无愧的地基。
-featured-img: sleek
 mathjax: true
 ---
 
