@@ -44,7 +44,7 @@ layout: compress
           <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
         </span>
         <span>
-            {% assign words = content | number_of_words %}
+            {% assign words = content | strip_html | strip_newlines | split: "" | size %}
               {% if words < 360 %}
                 1 min
               {% else %}
