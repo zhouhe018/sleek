@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started with Sleek
 summary: 操作系统，数字时代当之无愧的地基。
-post.number_of_words:6000
+number_of_words:6000
 mathjax: true
 ---
 
